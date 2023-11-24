@@ -21,7 +21,7 @@ header {
   text-align: center;
   background-size: cover;
   line-height: 40px;
-  height: 500px;
+  height: 700px;
   display: flex;
   justify-content: center;
   flex-direction: column;
@@ -58,7 +58,7 @@ h1 {
   padding-bottom: 30px;
   position: absolute;
   left: 300px;
-  top: 700px;
+  top: 900px;
 }
 h4 {
   color: #25a2c3;
@@ -70,8 +70,9 @@ h4 {
 .sposta {
   position: absolute;
   right: 300px;
-  top: 700px;
+  top: 950px;
   font-size: 20px;
+  line-height: 1.65;
 }
 
 .lor {
@@ -118,6 +119,5 @@ h6 {
   display: inline-block;
 }
 .centrare {
-  display: block;
   margin: 0 auto;
 }
